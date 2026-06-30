@@ -17,7 +17,7 @@ blog-frontend/
 - .env -> stores backend API URL
 
 ## How Frontend Connects To Backend
-.env file has: VITE_API_URL=http://localhost:5000/api/posts
+.env file has: VITE_API_URL=https://blog-fullstack-prodesk-it.onrender.com
 
 In code we read it as: import.meta.env.VITE_API_URL
 
